@@ -31,6 +31,10 @@ The radio is now ready to receive keys from the keyloader:
 
 ![Step 3 diagram](<images/instructions/3.png>)
 
+## Example usage
+
+![**XL**key connecting a KVL 3000+ and XL-series CH](images/kvl3000plus.jpg)
+
 ## Compatibility
 
 The **XL**key is guaranteed to work with the following tested radios and keyloaders.
