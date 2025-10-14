@@ -78,7 +78,7 @@ The following TWI keyloaders have been tested for compatibility at this time:
 
 The names "beep boop labs" and "**XL**key", and the alembic distiller and key logos, are trademarks and/or copyrighted works of beep boop labs ltd. All rights are reserved.
 
-Any reference to KFDtool, Motorola, L3Harris, or any other third party manufacturer, or any of their products, is for informational purposes only. No representation is made that any such manufacturer has endorsed beep boop labs ltd or its products.
+Any reference to KFDtool, L3Harris, Motorola, or any other third party manufacturer, or any of their products, is for informational purposes only. No representation is made that any such manufacturer has endorsed beep boop labs ltd or its products.
 
 
 [^gcaitohirose]: Requires Motorola [unreleased part number] portable GCAI to hirose male cable.
