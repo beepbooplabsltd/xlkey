@@ -50,8 +50,8 @@ The following radios and control heads have been tested for compatibility at thi
 | Control head | XL-200M | XL-185M | XL-85M | Support status    | Firmware |
 |--------------|:-------:|:-------:|:------:|-------------------|----------|
 | XL-CH        | ✅      | ✅     | ✅     | ✅ Tested        | R20A     |
-| XL-CH2       | ✅      | ✅     | ✅     | ❔ Untested       | —        |
-| XL-RHHC      | ✅      | ✅     | ✅     | ❌ Not supported | —        |
+| XL-CH2       | ✅      | ✅     | ✅     | ✅ Tested        | R17C     |
+| XL-RHHC      | ✅      | ✅     | ❔      | ❌ Not supported | —        |
 
 ### Keyloaders
 
