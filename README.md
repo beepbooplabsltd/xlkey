@@ -39,7 +39,7 @@ The radio is now ready to receive keys from the keyloader:
 
 The **XL**key is guaranteed to work with the following tested radios and keyloaders.
 
-*Have you used a **XL**key with a different radio or keyloader? [Please let us know!](mailto:info@beepbooplabs.ltd)*
+*Have you used a **XL**key with a different radio or keyloader? [Please let us know!](mailto:contact@beepbooplabs.ltd)*
 
 ### Radios
 
