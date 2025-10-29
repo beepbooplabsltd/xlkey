@@ -3,7 +3,7 @@
 
 The **XL**key is a P25 keyloading adapter that enables the use of TIA-102 standards-compliant keyloaders with L3Harris XL-series mobile radios.
 
-It provides comparable functionality to the L3Harris 14050-6350-01 keyloading cable.
+It provides comparable functionality to the L3Harris 14050-6350-01 and -02 keyloading cables.
 
 ## 🛒 [Order now!](https://shop.beepbooplabs.ltd/products/xlkey%E2%84%A2)
 
@@ -45,13 +45,13 @@ The **XL**key is guaranteed to work with the following tested radios and keyload
 
 The **XL**key is designed to be compatible with all L3Harris XL-series mobile P25 radios, depending on the control head in use.
 
-The following radios and control heads have been tested for compatibility at this time:
+The following control heads have been tested for compatibility at this time:
 
-| Control head | XL-200M | XL-185M | XL-85M | Support status    | Firmware |
-|--------------|:-------:|:-------:|:------:|-------------------|----------|
-| XL-CH        | ✅      | ✅     | ✅     | ✅ Tested        | R20A     |
-| XL-CH2       | ✅      | ✅     | ✅     | ✅ Tested        | R17C     |
-| XL-RHHC      | ✅      | ✅     | ❔      | ❌ Not supported | —        |
+| Control head | Support status | Firmware | Notes |
+|--------------|----------------|----------|-------|
+| XL-CH        | ✅ Tested      | R20A     |
+| XL-CH2       | ✅ Tested      | R17C     |
+| XL-RHHC      | ✅ Tested      | R21A     | Requires 14002-0174-55 or -71 USB-C to HD-44 cable
 
 ### Keyloaders
 
