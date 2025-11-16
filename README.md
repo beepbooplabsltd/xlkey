@@ -5,7 +5,7 @@ The **XL**key is a P25 keyloading adapter that enables the use of TIA-102 standa
 
 It provides comparable functionality to the L3Harris 14050-6350-01 and -02 keyloading cables.
 
-## 🛒 [Order now!](https://shop.beepbooplabs.ltd/products/xlkey%E2%84%A2)
+## 🛒 [Order now!](https://shop.beepbooplabs.ltd/products/xlkey)
 
 ![**XL**key with included USB-C cable](images/xlkey.jpg)
 
