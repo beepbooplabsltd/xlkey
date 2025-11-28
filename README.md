@@ -75,6 +75,12 @@ The following TWI keyloaders have been tested for compatibility at this time:
 | [KFDmicro](https://store.w3axl.com/products/kfdmicro-3d-printed-case-1)[^trs14tohirose]                                             | ✅ Tested      | 1.8.7                      |
 | [KFDpico](https://www.ebay.com/itm/297004299797)[^trs14tohirose]                                                                    | ✅ Tested      | 1.7.3                      |
 
+## Security design
+
+As with any device that may come in contact with encryption key material, it is important to understand the security design and risk factors when using the **XL**key.
+
+For more information, please review the in-depth discussion of the [**XL**key security design](./security-design.md).
+
 ## Legal
 
 The names "beep boop labs" and "**XL**key", and the alembic distiller and key logos, are trademarks and/or copyrighted works of beep boop labs ltd. All rights are reserved.
